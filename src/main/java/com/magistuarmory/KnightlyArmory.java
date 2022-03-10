@@ -1,4 +1,4 @@
-package com.magistuarmory;
+package com.magistuarmory; 
 
 import com.magistuarmory.client.proxy.ClientProxy;
 import com.magistuarmory.config.EpicFightConfig;
